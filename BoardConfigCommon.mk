@@ -15,8 +15,6 @@
 # limitations under the License.
 #
 
-BOARD_VENDOR := xiaomi
-
 COMMON_PATH := device/xiaomi/sm6150-common
 
 BUILD_BROKEN_DUP_RULES := true
