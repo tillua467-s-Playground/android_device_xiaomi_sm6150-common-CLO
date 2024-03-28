@@ -213,6 +213,10 @@ TARGET_COMMON_QTI_COMPONENTS := \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/permissions/qti_whitelist.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/sysconfig/qti_whitelist.xml
 
+# QTI fwk-detect
+PRODUCT_PACKAGES += \
+    libvndfwk_detect_jni.qti.vendor # Needed by CNE app
+
 # RIL
 PRODUCT_PACKAGES += \
     CarrierConfigOverlay \
