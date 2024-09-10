@@ -97,7 +97,8 @@ TARGET_USE_AIDL_QTI_MEMTRACK := true
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm-service.clearkey \
-    android.hardware.drm@1.4.vendor
+    android.hardware.drm@1.4.vendor \
+    libcrypto_shim
 
 # Fastbootd
 PRODUCT_PACKAGES += \
