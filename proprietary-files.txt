@@ -20,7 +20,6 @@ vendor/lib64/libcdsprpc.so
 vendor/lib64/libmdsprpc.so
 vendor/lib64/libsdsprpc.so
 vendor/lib64/libcdsprpc_system.so
-vendor/lib64/libril-qc-hal-qmi.so
 
 # ANT+ - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
 vendor/lib64/hw/com.dsi.ant@1.0-impl.so|87dc1a131534659173e71e108e7a3ffe6325845f
@@ -322,6 +321,7 @@ vendor/lib64/libqrtr.so|3ea4f27b261a1a5ddeee02e9561dc040ddb26514
 vendor/lib64/libqsocket.so|3fa01c9aff6ed96a5ea9886c7696a046c929e339
 
 # RIL - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
+vendor/lib64/vendor.qti.hardware.radio.qcriNvOpt@1.0.so
 vendor/bin/adpl|4bcb42796dbcfba43dbc98a146b4d55ee9c4b06c
 vendor/bin/hw/qcrild|b0f3072b2c392eaeebdc79c944ee38e09e9aebd8
 vendor/bin/netmgrd|dec52aaa11fb718b388a9ac6177d6aa4ae58b6ef
@@ -351,6 +351,7 @@ vendor/lib64/libqcrilFramework.so|822746346ea6fb7a52b5fbedef94c4f58bc6e2ca
 vendor/lib64/libqcrildatactl.so|d769a40256b79ef1baeda60a3073b0bdde4e377c
 vendor/lib64/libqdi.so|6ddaba2bf29732e8a090f863411a2b5104faa82c
 vendor/lib64/libqdp.so|1e0de37e5b7278911c8bb92d1389732bf666aa91
+vendor/lib64/libril-qc-hal-qmi.so|bed77b70d49ede9cd6e01c8d009354ec97ee92e1
 vendor/lib64/libril-qc-logger.so|8b01d4e2c0209b4142370593edac3ccc63a24716
 vendor/lib64/librilqmiservices.so|ad3512fa14ca5231fed6926d48b94633cebb8adf
 vendor/lib64/libsystem_health_mon.so|2cc55d78ea00b9fe8af9cd88fd8ef8c31ee5f494
