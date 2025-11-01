@@ -91,10 +91,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     disable_configstore
 
-# Dexpreopt
-PRODUCT_DEXPREOPT_SPEED_APPS += \
-    SystemUI
-
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm-service.clearkey \
