@@ -115,7 +115,7 @@ vendor/lib64/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so|12d4edcd85
 # DPM - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
 vendor/bin/dpmQmiMgr|e682a4c6e684be96de179158c65e5732f052ab2c
 vendor/etc/init/dpmQmiMgr.rc|1538743661a5c48c15cd105beaad20f72953885a
-vendor/lib64/com.qualcomm.qti.dpm.api@1.0.so;MODULE=com.qualcomm.qti.dpm.api@1.0_vendor|d9f1aa7f93b928f42499d613d20ccbc60f279097
+vendor/lib64/com.qualcomm.qti.dpm.api@1.0.so|d9f1aa7f93b928f42499d613d20ccbc60f279097
 vendor/lib64/libdpmqmihal.so|41eb89e66ba065c43a5eb79cd3c72cef0ee167aa
 
 # DRM - from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
@@ -219,7 +219,7 @@ vendor/lib64/vendor.qti.ims.rcsconfig@1.1.so|91521d031060612dbf53d4a6437eba56780
 vendor/lib64/vendor.qti.ims.rcsconfig@2.0.so|bd0db76d555c51971dcfcce62d981f987af32811
 vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so|f52f0cd5e19455eba97dea61542217d4aa5c1841
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so|4fc84ea2ec56396fa1d6daa9c8f06b227be403a4
-vendor/lib64/vendor.qti.imsrtpservice@3.0.so;MODULE=vendor.qti.imsrtpservice@3.0_vendor|460e589128fce0b0e83bb3c75aa32f7e1a9494fd
+vendor/lib64/vendor.qti.imsrtpservice@3.0.so|460e589128fce0b0e83bb3c75aa32f7e1a9494fd
 
 # IPA
 vendor/etc/init/ipa_fws.rc
@@ -255,12 +255,12 @@ vendor/lib/libOmxQcelp13Dec.so|5c859845e9803a3702c361cc3e2e802f4d3ae303
 vendor/lib/libOmxVpp.so|010378466ccb164d9aee0ea47e19fd0ab43917a8
 vendor/lib/libOmxWmaDec.so|17f0f77fb9a27a8381c8dbc77d6aac5c303ac453
 vendor/lib/libdsd2pcm.so|c5ab1afd7a5a23bf83d80b5ac74247c3dd2085af
-vendor/lib/libmmosal.so;MODULE=libmmosal_vendor|6f71fd1d54d6ca8df7d362a72517b082ed412bbe
+vendor/lib/libmmosal.so|6f71fd1d54d6ca8df7d362a72517b082ed412bbe
 vendor/lib/libqcodec2.so|ee29efbe26dac06cf0c968d2dfe763e7e809fdf0
 vendor/lib/libvppclient.so|4b782018a25d6183be12d725d8954b14e5def212
 vendor/lib/libvpphvx.so|e5b3bfc86080fb20efd5ad3b47417566eab8319d
 vendor/lib/libvpplibrary.so|9ce20dea58b8ef90c0c23b58d1064ec3b90df24c
-vendor/lib64/libmmosal.so;MODULE=libmmosal_vendor|568c9dff1fe27cc4cd874181bf0d8ab5dc6d372b
+vendor/lib64/libmmosal.so|568c9dff1fe27cc4cd874181bf0d8ab5dc6d372b
 vendor/lib64/libvpphcp.so|6a2580bde806136a150b12cd67b287c8f6709f85
 vendor/lib64/libvpphvx.so|d92a352a9990c77b5724784e8c827637b850d53e
 vendor/lib64/libvpplibrary.so|71152f530320f55862c1f4afc1957597f4c8e9f0
